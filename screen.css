@@ -1,0 +1,305 @@
+/* Among Friends standard (screen) stylesheet
+ * Version 1.3.3
+ * Static (margin) positioning edition
+ * CSS layer 2
+ *
+ * Copyright (c) 2001-04,06 Among Friends
+ * by Arne Johannessen
+ * mailto:webmaster@thaw.de
+ */
+
+.hide {
+	display: none !important;
+}
+
+HTML {
+	margin: 0;
+	color: #008000;
+	background: #fbf3e3 url("/images/background") 1.2em 0 repeat-y scroll;
+	padding: 0 0 0 1.2em;
+	font-family: "Gill Sans", "Verdana", "Lucida Sans Unicode", "Lucida", sans-serif;
+	font-size: 95%;
+}
+BODY {
+	margin: 0 0 0 71px;
+	padding: 1.2em;
+}
+
+H1 {
+	font-size: 1.2em;
+	font-weight: normal;
+	text-align: center;
+}
+H1 SPAN {
+	display: block;
+	margin-bottom: .2em;
+}
+
+#menu {
+	margin: .5em 0;
+	padding: 0;
+	clear: none;
+}
+#menu LI {
+	list-style: none;
+	float: left;
+	clear: none;
+	margin: .5em 1em .5em 0;
+	padding: 0;
+}
+#menu LI#last {
+	margin-right: 0;
+}
+#menu A {
+	width: auto;
+	height: auto;
+	background-color: #fcdc9f !important;
+	color: #008000;
+	font-weight: bolder;
+	font-size: 120%;
+	text-decoration: none;
+}
+#menu A[href] {
+	font-weight: normal;
+}
+#menu A[href]:hover *, #menu A[href]:active * {
+	text-decoration: underline;
+}
+#menu .t {
+	background: transparent url("/images/button-top") top left repeat-x;
+}
+#menu .r {
+	background: transparent url("/images/button-right") top right repeat-y;
+}
+#menu .b {
+	background: transparent url("/images/button-bottom") bottom left repeat-x;
+}
+#menu .l {
+	background: transparent url("/images/button-left") top left repeat-y;
+}
+#menu .tl {
+	background: transparent url("/images/button-topleft") top left no-repeat;
+}
+#menu .tr {
+	background: transparent url("/images/button-topright") top right no-repeat;
+}
+#menu .br {
+	background: transparent url("/images/button-bottomright") bottom right no-repeat;
+}
+@media all {
+	/* We're hiding these rules inside "media all" so that IE:mac ignores them */
+	#menu .bl {
+		background: transparent url("/images/button-bottomleft") bottom left no-repeat;
+	}
+	#menu A, #menu .t, #menu .r, #menu .b, #menu .l, #menu .tl, #menu .tr, #menu .br, #menu .bl {
+		display: block;
+	}
+	#content UL.cd LI {
+		text-align: center;
+	}
+}
+#menu .item {
+	display: block;
+	height: 1.4em;
+	width: 6.5em;
+	padding: 9px 16px;
+	text-align: center;
+}
+#menu A:after {
+	content: "" !important;  /* kill iCab's default accesskeys */
+}
+#menu .item:after {
+	font-size: .67em;
+	vertical-align: super;
+}
+#menu [href][accesskey="g"] .item:after {
+	content: "[g]";
+}
+#menu [href][accesskey="t"] .item:after {
+	content: "[t]";
+}
+#menu [href][accesskey="r"] .item:after {
+	content: "[r]";
+}
+#menu [href][accesskey="c"] .item:after {
+	content: "[c]";
+}
+
+.lang:after, [hreflang]:after {
+	font-size: .8em;
+	vertical-align: super;
+}
+A[hreflang]:after {
+	content: " [" attr(hreflang) "]";
+}
+.lang.de:after {
+	content: " [de]";
+}
+.lang.en:after {
+	content: " [en]";
+}
+
+#content {
+	clear: left;
+	padding-top: 1em;
+}
+H2, H3, H4 {
+	font-weight: normal;
+	font-size: 1em;
+}
+H2 {
+	margin-top: 2.5em;
+	font-size: 1.2em;
+	display: none;
+}
+#content H2 {
+	display: block;
+}
+#content :first-child, #content .photo:first-child+* {
+	margin-top: 0;
+}
+#content H3 {
+	margin-top: 3em;
+}
+#content A {
+	text-decoration: underline;
+	color: #f50;
+	background-color: inherit;
+}
+#content A:visited {
+	color: #c81;
+	background-color: inherit;
+}
+#content A:hover, #content A:active, #content #members A:hover IMG, #content #members A:active IMG {
+	text-decoration: none;
+	outline: #f50 dashed 1px;
+}
+#content A:active {
+	color: red;
+	background: inherit;
+	outline-color: red;
+}
+
+#content DT {
+	margin-top: 1em;
+}
+#content DD {
+	margin-left: 0;
+	padding-left: 0;
+}
+/*#content DT {
+	display: inline;
+	font-weight: bolder;
+	float: left;
+	clear: left;
+	margin: 0 .3em 0 0;
+}
+#content DD {
+	margin: 0 0 .5em 0;
+	padding-left: 0;
+}
+*/
+#content ABBR {
+	font-style: inherit;
+	font-variant: inherit;
+	border: none;
+}
+#content ABBR[title] {
+	border-bottom: 1px dotted #88be7b;
+	cursor: help;
+}
+#content OL {
+	list-style-type: decimal;
+}
+#content OL, UL {
+	margin-left: 0;
+	padding-left: 40px;
+}
+
+#content .photo {
+	float: right;
+	margin: 0 0 1em 1em;
+}
+#content P.photo {
+	margin-top: 1em;
+}
+#content UL.noBullets {
+	list-style: none;
+	text-indent: -40px;
+}
+#content UL.cd {
+	padding-left: 0;
+	margin-left: 0;
+}
+#content UL.cd LI {
+	list-style: none;
+	margin: 0 2em 1em 0;
+	padding: 0;
+	float: left;
+	clear: none;
+}
+#content UL.cd LI A {
+	text-decoration: none;
+}
+#content UL.cd LI A SPAN {
+	text-decoration: underline;
+}
+#content UL.cd+*, .clear {
+	clear: left;
+}
+
+#content .chorus {
+	font-style: oblique;
+}
+#content .chorus:before {
+	content: "[Refrain:] \a";
+}
+
+#content UL#members LI {
+	display: block;
+	margin: 1em 0;
+	padding: 0;
+}
+#content UL#members IMG {
+	float: left;
+	background: url("/images/border") no-repeat;
+	width: 96px;
+	height: 72px;
+	margin: 0 1em 0 0;
+	padding: 0 4px 4px 0;
+	border: none;
+	outline: none;
+}
+#content UL#members LI:after {
+	clear: both;
+	content: ".";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+#content UL#members LI SPAN {
+	/* this SPAN rule is for IE compatibility */
+	clear: left;
+	display: block;
+	height: 0;
+	margin: 0;
+	padding: 0;
+}
+#content UL#members {
+	margin: 0;
+	padding: 0;
+}
+
+/* bad browser catering */
+
+#content UL#members LI:after {
+	display: inline-block;
+}
+/* hide from IE:mac \*/
+	* HTML #content UL#members LI:after {
+		height: 1%;
+	}
+	#content UL#members LI:after {
+		display: block;
+	}
+/* end hide */
