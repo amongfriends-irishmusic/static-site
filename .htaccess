@@ -2,7 +2,7 @@
 # by Arne Johannessen
 # mailto:webmaster@thaw.de
 
-# $ID: last modified 2006-07-27 by webmaster $
+# $Id$
 
 
 ErrorDocument 404 /.errorhandler.php
