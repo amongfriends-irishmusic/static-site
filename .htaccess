@@ -5,15 +5,23 @@
 # $Id$
 
 
-ErrorDocument 404 /.errorhandler.php
-ErrorDocument 410 /.errorhandler.php
+#ErrorDocument 404 /.errorhandler.php
+#ErrorDocument 410 /.errorhandler.php
 
 
 <IfModule mod_mime.c>
 	AddType audio/mpeg m4a
 	<Files "*.html">
-		ForceType "text/html; charset=utf-8"
+		ForceType "text/html; charset=UTF-8"
 	</Files>
+	<Files "button-*">
+		ForceType "image/gif"
+	</Files>
+</IfModule>
+
+# there is no, repeat no, favicon here!
+<IfModule mod_alias.c>
+	Redirect gone /favicon.ico
 </IfModule>
 
 # a bunch of permanent redirects
