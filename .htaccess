@@ -11,11 +11,15 @@
 
 <IfModule mod_mime.c>
 	AddType audio/mpeg m4a
+	AddType application/atom+xml atom
 	<Files "*.html">
 		ForceType "text/html; charset=UTF-8"
 	</Files>
 	<Files "button-*">
 		ForceType "image/gif"
+	</Files>
+	<Files "feed.atom.utf8.xml">
+		ForceType "application/atom+xml; charset=UTF-8"
 	</Files>
 </IfModule>
 

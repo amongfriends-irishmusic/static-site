@@ -1,0 +1,8 @@
+# among-friends.thaw.de robots guidance file
+# by Arne Johannessen
+# mailto:webmaster@thaw.de
+
+# $Id$
+
+User-agent: *
+Disallow: 
