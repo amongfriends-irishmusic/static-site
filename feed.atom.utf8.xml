@@ -30,7 +30,24 @@
 	
 -->
 	
-	<updated>2010-10-04T16:43:00+02:00</updated>
+	<updated>2010-11-31T18:11:00+01:00</updated>
+	
+	<entry>
+		<title>New Concerts in February and March 2011</title>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>Added 6 February and 19 March 2011 to <a href="http://www.amongfriends.de/concert/">concert list</a>.</p>
+			</div>
+		</content>
+		<link rel="related" href="http://www.amongfriends.de/concert/" type="text/html"/>
+		<contributor>
+			<name>Dietmar Först</name>
+		</contributor>
+		<category term="concert"/>
+		<id>http://www.amongfriends.de/feed?itemid=4</id>
+		<published>2010-11-31T18:12:00+01:00</published>
+		<updated>2010-11-31T18:12:00+01:00</updated>
+	</entry>
 	
 	<entry>
 		<title>New Atom Feed</title>
@@ -87,3 +104,4 @@
 	</entry>
 	
 </feed>
+<!--$Id$-->
