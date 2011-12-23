@@ -45,9 +45,10 @@
 	RedirectMatch gone ^/members/conny([.].+)?$
 	RedirectMatch gone ^/members/barbara([.].+)?$
 	RedirectMatch gone ^/members/gisela([.].+)?$
-	RedirectMatch permanent ^/repertoire/irishstew(.*)$ http://among-friends.thaw.de/repertoire/irish-stew$1
-	RedirectMatch permanent ^/repertoire/ondraught(.*)$ http://among-friends.thaw.de/repertoire/on-draught$1
-	RedirectMatch permanent ^/repertoire/tripledistilled(.*)$ http://among-friends.thaw.de/repertoire/triple-distilled$1
+	RedirectMatch permanent ^/repertoire/irishstew(.*)$ http://www.amongfriends.de/repertoire/irish-stew$1
+	RedirectMatch permanent ^/repertoire/ondraught(.*)$ http://www.amongfriends.de/repertoire/on-draught$1
+	RedirectMatch permanent ^/repertoire/tripledistilled(.*)$ http://www.amongfriends.de/repertoire/triple-distilled$1
+	Redirect permanent /download/Celtic_Heartbeat_2011-12.m4a http://www.amongfriends.de/download/Celtic%20Heartbeat%202011-12.m4a
 </IfModule>
 
 
