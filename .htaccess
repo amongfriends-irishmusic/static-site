@@ -10,7 +10,7 @@
 
 
 <IfModule mod_mime.c>
-	AddType audio/mpeg m4a
+	AddType audio/aac m4a
 	AddType application/atom+xml atom
 	<Files "*.html">
 		ForceType "text/html; charset=UTF-8"
