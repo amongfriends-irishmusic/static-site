@@ -33,6 +33,43 @@
 	<updated>2010-11-31T18:11:00+01:00</updated>
 	
 	<entry>
+		<title>Among Friends on Radio Hagen</title>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>Among Friends <a href="http://www.107.7radiohagen.de/Bands-im-Studio.419.0.html">interviewed by Radio Hagen</a> on air today afternoon!</p>
+			</div>
+		</content>
+		<link rel="related" href="http://www.107.7radiohagen.de/Bands-im-Studio.419.0.html" type="text/html"/>
+		<contributor>
+			<name>Among Friends</name>
+		</contributor>
+		<contributor>
+			<name>Radio Hagen</name>
+		</contributor>
+		<category term="general"/>
+		<id>http://www.amongfriends.de/feed?itemid=6</id>
+		<published>2012-02-21T14:28:00+02:00</published>
+		<updated>2012-02-21T14:28:00+02:00</updated>
+	</entry>
+	
+	<entry>
+		<title>Various Updates</title>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>Various updates througout 2011.</p>
+			</div>
+		</content>
+		<link rel="related" href="http://www.amongfriends.de/" type="text/html"/>
+		<contributor>
+			<name>Among Friends</name>
+		</contributor>
+		<category term="general"/>
+		<id>http://www.amongfriends.de/feed?itemid=5</id>
+		<published>2012-02-21T14:00:00+02:00</published>
+		<updated>2012-02-21T14:00:00+02:00</updated>
+	</entry>
+	
+	<entry>
 		<title>New Concerts in February and March 2011</title>
 		<content type="xhtml">
 			<div xmlns="http://www.w3.org/1999/xhtml">
