@@ -30,7 +30,24 @@
 	
 -->
 	
-	<updated>2010-11-31T18:11:00+01:00</updated>
+	<updated>2010-04-24T20:48:00+02:00</updated>
+	
+	<entry>
+		<title>Concerts Update</title>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>New concert: 23 June 2012 with „Gimme 5“ in Lüdenscheid. Free admittance.</p>
+			</div>
+		</content>
+		<link rel="related" href="http://www.amongfriends.de/concert/" type="text/html"/>
+		<contributor>
+			<name>Almut Kückelhaus</name>
+		</contributor>
+		<category term="concert"/>
+		<id>http://www.amongfriends.de/feed?itemid=7</id>
+		<published>2010-04-24T20:48:00+02:00</published>
+		<updated>2010-04-24T20:48:00+02:00</updated>
+	</entry>
 	
 	<entry>
 		<title>Among Friends on Radio Hagen</title>
