@@ -24,13 +24,49 @@
 		</contributor>
 		<category term="general|members|repertoire|concert"/>
 		<id>http://www.amongfriends.de/feed?itemid=...</id>
-		<published>2010-...:00+02:00</published>
-		<updated>2010-...:00+02:00</updated>
+		<published>2012-...:00+02:00</published>
+		<updated>2012-...:00+02:00</updated>
 	</entry>
 	
 -->
 	
-	<updated>2010-04-24T20:48:00+02:00</updated>
+	<updated>2012-07-25T19:41:00+02:00</updated>
+	
+	<entry>
+		<title>English translation efforts cancelled</title>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>Right now, most parts of the web site are not translated and thus all but inaccessible to visitors from overseas. However, our translation efforts are currently stalled. It turns out that just having a static translation doesn’t work for us. We don’t change our site very often, but when we do, we don’t want to spend time translating it ourselves. So the only way we’ll come to ever having an English-language version is if someone steps up and not only offers to do the translations for us, but to maintain them after future changes as well. Alas, that doesn’t seem real likely at this point. Sorry, folks!</p>
+				<p>We’d also be interested in having a translation in Gaeilge, but obviously English would have to be a priority.</p>
+				<p>Please contact us if you’d like to participate!</p>
+			</div>
+		</content>
+		<link rel="related" href="http://www.amongfriends.de/index.en" type="text/html"/>
+		<contributor>
+			<name>Arne Johannessen</name>
+		</contributor>
+		<category term="general"/>
+		<id>http://www.amongfriends.de/feed?itemid=9</id>
+		<published>2012-07-25T19:42:00+02:00</published>
+		<updated>2012-07-25T19:42:00+02:00</updated>
+	</entry>
+	
+	<entry>
+		<title>New Concert in September 2012</title>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>Created new <a href="http://www.amongfriends.de/concert/2012-09-22">page for charity concert 22 September 2012</a> with placard. Free admittance, donations requested.</p>
+			</div>
+		</content>
+		<link rel="related" href="http://www.amongfriends.de/concert/" type="text/html"/>
+		<contributor>
+			<name>Among Friends</name>
+		</contributor>
+		<category term="concert"/>
+		<id>http://www.amongfriends.de/feed?itemid=8</id>
+		<published>2012-07-25T19:39:00+02:00</published>
+		<updated>2012-07-25T19:39:00+02:00</updated>
+	</entry>
 	
 	<entry>
 		<title>Concerts Update</title>
@@ -45,8 +81,8 @@
 		</contributor>
 		<category term="concert"/>
 		<id>http://www.amongfriends.de/feed?itemid=7</id>
-		<published>2010-04-24T20:48:00+02:00</published>
-		<updated>2010-04-24T20:48:00+02:00</updated>
+		<published>2012-04-24T20:48:00+02:00</published>
+		<updated>2012-04-24T20:48:00+02:00</updated>
 	</entry>
 	
 	<entry>
@@ -99,8 +135,8 @@
 		</contributor>
 		<category term="concert"/>
 		<id>http://www.amongfriends.de/feed?itemid=4</id>
-		<published>2010-11-31T18:12:00+01:00</published>
-		<updated>2010-11-31T18:12:00+01:00</updated>
+		<published>2010-11-30T23:59:59+01:00</published>
+		<updated>2010-11-30T23:59:59+01:00</updated>
 	</entry>
 	
 	<entry>
@@ -134,7 +170,7 @@
 		<category term="concert"/>
 		<id>http://www.amongfriends.de/feed?itemid=2</id>
 		<published>2010-10-04T14:10:00+02:00</published>
-		<updated>2010-10-04T16:41:00+02:00</updated>
+		<updated>2010-10-04T16:41:01+02:00</updated>
 	</entry>
 	
 	<entry>
