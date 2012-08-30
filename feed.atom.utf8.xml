@@ -30,7 +30,27 @@
 	
 -->
 	
-	<updated>2012-07-25T19:41:00+02:00</updated>
+	<updated>2012-08-30T21:10:00+02:00</updated>
+	
+	<entry>
+		<title>Date of September concert corrected</title>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>The <a href="http://www.amongfriends.de/concert/2012-09-22">concert page for the charity concert on 22 September 2012</a> had contained a wrong date which now was fixed.
+			</div>
+		</content>
+		<link rel="related" href="http://www.amongfriends.de/concert/2012-09-22" type="text/html"/>
+		<contributor>
+			<name>Dietmar Först</name>
+		</contributor>
+		<contributor>
+			<name>Trude Johannessen</name>
+		</contributor>
+		<category term="concert"/>
+		<id>http://www.amongfriends.de/feed?itemid=10</id>
+		<published>2012-08-30T21:10:00+02:00</published>
+		<updated>2012-08-30T21:10:00+02:00</updated>
+	</entry>
 	
 	<entry>
 		<title>English translation efforts cancelled</title>
