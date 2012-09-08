@@ -30,7 +30,27 @@
 	
 -->
 	
-	<updated>2012-08-30T21:10:00+02:00</updated>
+	<updated>2012-09-08T15:10:00+02:00</updated>
+	
+	<entry>
+		<title>September concert updated</title>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>The <a href="http://www.amongfriends.de/concert/2012-09-22">concert page for 22 September 2012</a> now contains a section on media coverage, curently featuring a link to an article on <a href="http://www.oberberg-aktuell.de/index.php?id=77&amp;tx_ttnews%5Btt_news%5D=137807&amp;cHash=f488f320d9">Oberberg Aktuell</a>.</p>
+			</div>
+		</content>
+		<link rel="related" href="http://www.amongfriends.de/concert/2012-09-22" type="text/html"/>
+		<contributor>
+			<name>Trude Johannessen</name>
+		</contributor>
+		<contributor>
+			<name>Arne Johannessen</name>
+		</contributor>
+		<category term="concert"/>
+		<id>http://www.amongfriends.de/feed?itemid=11</id>
+		<published>2012-09-08T15:10:00+02:00</published>
+		<updated>2012-09-08T15:10:00+02:00</updated>
+	</entry>
 	
 	<entry>
 		<title>Date of September concert corrected</title>
