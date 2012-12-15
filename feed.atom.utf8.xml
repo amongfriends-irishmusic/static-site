@@ -30,7 +30,27 @@
 	
 -->
 	
-	<updated>2012-09-08T15:10:00+02:00</updated>
+	<updated>2012-12-15T18:52:00+01:00</updated>
+	
+	<entry>
+		<title>New Concert in February 2013 (matinée)</title>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>Created new <a href="http://www.amongfriends.de/concert/2013-02-03/">page for matinée concert 3 February 2013</a> with placard.</p>
+			</div>
+		</content>
+		<link rel="related" href="http://www.amongfriends.de/concert/2013-02-03/" type="text/html"/>
+		<contributor>
+			<name>Almut Kückelhaus</name>
+		</contributor>
+		<contributor>
+			<name>Arne Johannessen</name>
+		</contributor>
+		<category term="concert"/>
+		<id>http://www.amongfriends.de/feed?itemid=12</id>
+		<published>2012-12-15T18:52:00+01:00</published>
+		<updated>2012-12-15T18:52:00+01:00</updated>
+	</entry>
 	
 	<entry>
 		<title>September concert updated</title>
