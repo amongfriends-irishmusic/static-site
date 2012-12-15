@@ -316,3 +316,8 @@ H2 {
 		display: block;
 	}
 /* end hide */
+
+A[type="application/pdf"]:after {
+	content: " [PDF]";
+	font-size: .8em;
+}
