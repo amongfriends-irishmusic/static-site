@@ -30,7 +30,24 @@
 	
 -->
 	
-	<updated>2013-02-04T21:10:00+01:00</updated>
+	<updated>2013-05-28T22:12:00+02:00</updated>
+	
+	<entry>
+		<title>Concerts Update</title>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>New concert: 22 June 2012 with „Gimme 5“ in Lüdenscheid. Free admittance.</p>
+			</div>
+		</content>
+		<link rel="related" href="http://www.amongfriends.de/concert/" type="text/html"/>
+		<contributor>
+			<name>Almut Kückelhaus</name>
+		</contributor>
+		<category term="concert"/>
+		<id>http://www.amongfriends.de/feed?itemid=14</id>
+		<published>2013-05-28T22:12:00+02:00</published>
+		<updated>2013-05-28T22:12:00+02:00</updated>
+	</entry>
 	
 	<entry>
 		<title>New Concert in March</title>
