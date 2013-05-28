@@ -30,13 +30,31 @@
 	
 -->
 	
-	<updated>2013-05-28T22:12:00+02:00</updated>
+	<updated>2013-05-28T22:30:00+02:00</updated>
+	
+	<entry>
+		<title>New album: The Ferryman</title>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>Updated the <a href="http://www.amongfriends.de/repertoire/" type="text/html">repertoire</a> page with the latest additions: New album „The Ferryman“ and „Farewell to the Rhondda“ having been played on BBC Radio. So far without recordings to listen to or other details except for <a href="http://www.amongfriends.de/repertoire/ferryman.cover" type="image/jpeg">our new album's cover</a>. The title list and booklet are forthcoming!</p>
+			</div>
+		</content>
+		<link rel="related" href="http://www.amongfriends.de/repertoire/" type="text/html"/>
+		<contributor>
+			<name>Arne Johannessen</name>
+			<name>Almut Kückelhaus</name>
+		</contributor>
+		<category term="concert"/>
+		<id>http://www.amongfriends.de/feed?itemid=15</id>
+		<published>2013-05-28T22:30:00+02:00</published>
+		<updated>2013-05-28T22:30:00+02:00</updated>
+	</entry>
 	
 	<entry>
 		<title>Concerts Update</title>
 		<content type="xhtml">
 			<div xmlns="http://www.w3.org/1999/xhtml">
-				<p>New concert: 22 June 2012 with „Gimme 5“ in Lüdenscheid. Free admittance.</p>
+				<p>New <a href="http://www.amongfriends.de/concert/">concert</a>: 22 June 2012 with „Gimme 5“ in Lüdenscheid. Free admittance.</p>
 			</div>
 		</content>
 		<link rel="related" href="http://www.amongfriends.de/concert/" type="text/html"/>
