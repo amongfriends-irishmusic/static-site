@@ -30,7 +30,24 @@
 	
 -->
 	
-	<updated>2013-05-28T22:30:00+02:00</updated>
+	<updated>2013-09-28T18:25:00+02:00</updated>
+	
+	<entry>
+		<title>Concerts Update</title>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>Our next <a href="http://www.amongfriends.de/concert/">concert</a>: 13 October 2013, taking farewell of the school support initiative Altena/Ancuabe (Mozambique).” Admittance 10,– € (reduced 7,– €).</p>
+			</div>
+		</content>
+		<link rel="related" href="http://www.amongfriends.de/concert/" type="text/html"/>
+		<contributor>
+			<name>Leif Johannessen</name>
+		</contributor>
+		<category term="concert"/>
+		<id>http://www.amongfriends.de/feed?itemid=16</id>
+		<published>2013-09-28T18:25:00+02:00</published>
+		<updated>2013-09-28T18:25:00+02:00</updated>
+	</entry>
 	
 	<entry>
 		<title>New album: The Ferryman</title>
