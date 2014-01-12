@@ -30,7 +30,24 @@
 	
 -->
 	
-	<updated>2013-09-28T18:25:00+02:00</updated>
+	<updated>2014-01-12T20:48:00+01:00</updated>
+	
+	<entry>
+		<title>Concerts in March and April 2014</title>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>Added the usual St Patrick’s Day concert as well as the charity concert in support of youth work in Marienheide to the web site’s section on <a href="http://www.amongfriends.de/concert/">performances of Among Friends</a>.</p>
+			</div>
+		</content>
+		<link rel="related" href="http://www.amongfriends.de/concert/" type="text/html"/>
+		<contributor>
+			<name>Dietmar Först</name>
+		</contributor>
+		<category term="concert"/>
+		<id>http://www.amongfriends.de/feed?itemid=17</id>
+		<published>2014-01-12T20:48:00+01:00</published>
+		<updated>2014-01-12T20:48:00+01:00</updated>
+	</entry>
 	
 	<entry>
 		<title>Concerts Update</title>
@@ -97,7 +114,7 @@
 		<contributor>
 			<name>Trude Johannessen</name>
 		</contributor>
-		<category term="general|members|repertoire|concert"/>
+		<category term="concert"/>
 		<id>http://www.amongfriends.de/feed?itemid=13</id>
 		<published>2013-02-04T21:10:00+01:00</published>
 		<updated>2013-02-04T21:10:00+01:00</updated>
