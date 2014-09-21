@@ -30,7 +30,24 @@
 	
 -->
 	
-	<updated>2014-01-12T20:48:00+01:00</updated>
+	<updated>2014-09-21T18:46:00+02:00</updated>
+	
+	<entry>
+		<title>Past concerts in August and September 2014</title>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>Added past performances over the past few weeks to the <a href="http://www.amongfriends.de/concert/">Concerts</a> page for completeness’ sake.</p>
+			</div>
+		</content>
+		<link rel="related" href="http://www.amongfriends.de/concert/" type="text/html"/>
+		<contributor>
+			<name>Almut Kückelhaus</name>
+		</contributor>
+		<category term="concert"/>
+		<id>http://www.amongfriends.de/feed?itemid=18</id>
+		<published>2014-09-21T18:46:00+02:00</published>
+		<updated>2014-09-21T18:46:00+02:00</updated>
+	</entry>
 	
 	<entry>
 		<title>Concerts in March and April 2014</title>
