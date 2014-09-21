@@ -30,7 +30,24 @@
 	
 -->
 	
-	<updated>2014-09-21T18:46:00+02:00</updated>
+	<updated>2014-09-21T18:51:00+02:00</updated>
+	
+	<entry>
+		<title>Announcing farewell concert April 2015</title>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>Added the “big farewell concert” in April 2015 to the web site’s section on <a href="http://www.amongfriends.de/concert/">performances of Among Friends</a>.</p>
+			</div>
+		</content>
+		<link rel="related" href="http://www.amongfriends.de/concert/" type="text/html"/>
+		<contributor>
+			<name>Almut Kückelhaus</name>
+		</contributor>
+		<category term="concert"/>
+		<id>http://www.amongfriends.de/feed?itemid=19</id>
+		<published>2014-09-21T18:51:00+02:00</published>
+		<updated>2014-09-21T18:51:00+02:00</updated>
+	</entry>
 	
 	<entry>
 		<title>Past concerts in August and September 2014</title>
