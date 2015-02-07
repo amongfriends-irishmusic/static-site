@@ -30,7 +30,27 @@
 	
 -->
 	
-	<updated>2015-01-05T21:37:00+01:00</updated>
+	<updated>2015-02-07T01:00:00+01:00</updated>
+	
+	<entry>
+		<title>More information on tomorrow’s performance at Breckerfeld</title>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>Added details regarding our performance at Breckerfeld tomorrow to the web site’s <a href="http://www.amongfriends.de/concert/">concerts section</a>. We’ll begin playing around 11 a.m. and welcome you from 10:30!</p>
+				<p>We apologise to you for not having been able to post this update until now.</p>
+				<p>Please note: We’ve received word that the last tickets have already been sold. We’ll do our very best to have a small allotment of tickets ready for sale at the door on sunday morning, but we sadly cannot make guarantees.</p>
+			</div>
+		</content>
+		<link rel="related" href="http://www.amongfriends.de/concert/" type="text/html"/>
+		<contributor>
+			<name>Dietmar Först</name>
+			<name>Trude Johannessen</name>
+		</contributor>
+		<category term="concert"/>
+		<id>http://www.amongfriends.de/feed?itemid=21</id>
+		<published>2015-02-07T01:00:00+01:00</published>
+		<updated>2015-02-07T01:00:00+01:00</updated>
+	</entry>
 	
 	<entry>
 		<title>Next concert in February</title>
@@ -51,20 +71,21 @@
 	</entry>
 	
 	<entry>
-		<title>Announcing farewell concert April 2015</title>
+		<title>Announcing <del>farewell</del> concert April 2015</title>
 		<content type="xhtml">
 			<div xmlns="http://www.w3.org/1999/xhtml">
-				<p>Added the “big farewell concert” in April 2015 to the web site’s section on <a href="http://www.amongfriends.de/concert/">performances of Among Friends</a>.</p>
+				<p>Added the <del>“big farewell</del> concert<del>”</del> in April 2015 to the web site’s section on <a href="http://www.amongfriends.de/concert/">performances of Among Friends</a>.</p>
 			</div>
 		</content>
 		<link rel="related" href="http://www.amongfriends.de/concert/" type="text/html"/>
 		<contributor>
 			<name>Almut Kückelhaus</name>
+			<name>Dietmar Först</name>
 		</contributor>
 		<category term="concert"/>
 		<id>http://www.amongfriends.de/feed?itemid=19</id>
 		<published>2014-09-21T18:51:00+02:00</published>
-		<updated>2014-09-21T18:51:00+02:00</updated>
+		<updated>2015-02-07T01:00:00+01:00</updated>
 	</entry>
 	
 	<entry>
