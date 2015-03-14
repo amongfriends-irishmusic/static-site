@@ -321,3 +321,7 @@ A[type="application/pdf"]:after {
 	content: " [PDF]";
 	font-size: .8em;
 }
+A[type="image/jpeg"]:after {
+	content: " [JPEG]";
+	font-size: .8em;
+}

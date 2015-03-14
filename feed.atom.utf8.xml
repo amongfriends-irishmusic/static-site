@@ -30,7 +30,42 @@
 	
 -->
 	
-	<updated>2015-02-07T01:00:00+01:00</updated>
+	<updated>2015-03-14T21:31:00+01:00</updated>
+	
+	<entry>
+		<title>Web site maintenance</title>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>An upcoming modification to our server software and configuration might result in some changes in the upcoming weeks. Watch this space!</p>
+			</div>
+		</content>
+		<link rel="related" href="http://www.amongfriends.de/" type="text/html"/>
+		<contributor>
+			<name>Arne Johannessen</name>
+		</contributor>
+		<category term="general"/>
+		<id>http://www.amongfriends.de/feed?itemid=23</id>
+		<published>2015-03-14T21:31:00+01:00</published>
+		<updated>2015-03-14T21:31:00+01:00</updated>
+	</entry>
+	
+	<entry>
+		<title>More information on concert April 2015</title>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>The concert poster is now ready for the printer. We've updated the web site with all the details, including PDF and JPEG versions of the poster for you to view and download. <a href="http://www.amongfriends.de/concert/2015-04-25/">performances of Among Friends</a>.</p>
+			</div>
+		</content>
+		<link rel="related" href="http://www.amongfriends.de/concert/2015-04-25/" type="text/html"/>
+		<contributor>
+			<name>Almut Kückelhaus</name>
+			<name>Dietmar Först</name>
+		</contributor>
+		<category term="concert"/>
+		<id>http://www.amongfriends.de/feed?itemid=22</id>
+		<published>2015-03-14T21:29:00+01:00</published>
+		<updated>2015-03-14T21:29:00+01:00</updated>
+	</entry>
 	
 	<entry>
 		<title>More information on tomorrow’s performance at Breckerfeld</title>
