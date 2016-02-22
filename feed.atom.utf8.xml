@@ -30,13 +30,30 @@
 	
 -->
 	
-	<updated>2015-07-27T08:50:00+02:00</updated>
+	<updated>2016-02-22T17:53:00+01:00</updated>
+	
+	<entry>
+		<title>Concerts addendum</title>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>Added recent performance in Meinerzhagen to the web site’s <a href="http://www.amongfriends.de/concert/">concerts section</a>.</p>
+			</div>
+		</content>
+		<link rel="related" href="http://www.amongfriends.de/concert/" type="text/html"/>
+		<contributor>
+			<name>Dietmar Först</name>
+		</contributor>
+		<category term="concert"/>
+		<id>http://www.amongfriends.de/feed?itemid=25</id>
+		<published>2016-02-22T17:53:00+01:00</published>
+		<updated>2016-02-22T17:53:00+01:00</updated>
+	</entry>
 	
 	<entry>
 		<title>Next concerts at Jesus-Christus-Kirche in Meinerzhagen, August and November</title>
 		<content type="xhtml">
 			<div xmlns="http://www.w3.org/1999/xhtml">
-				<p>Upcoming performances at Jesus-Christus-Kirche in August and November to the web site’s <a href="http://www.amongfriends.de/concert/">concerts section</a>.</p>
+				<p>Added upcoming performances at Jesus-Christus-Kirche in August and November to the web site’s <a href="http://www.amongfriends.de/concert/">concerts section</a>.</p>
 			</div>
 		</content>
 		<link rel="related" href="http://www.amongfriends.de/concert/" type="text/html"/>
@@ -46,7 +63,7 @@
 		<category term="concert"/>
 		<id>http://www.amongfriends.de/feed?itemid=24</id>
 		<published>2015-07-27T08:50:00+02:00</published>
-		<updated>2015-07-27T08:50:00+02:00</updated>
+		<updated>2016-02-22T17:53:00+01:00</updated>
 	</entry>
 	
 	<entry>
