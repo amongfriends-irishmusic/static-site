@@ -30,7 +30,24 @@
 	
 -->
 	
-	<updated>2016-02-22T17:53:00+01:00</updated>
+	<updated>2016-04-15T23:00:00+02:00</updated>
+	
+	<entry>
+		<title>Next performance end of April 2016</title>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>Added the “pub night” at Volmetal school in Meinerzhagen on 30 April 2016 to the web site’s <a href="http://www.amongfriends.de/concert/">concerts section</a>.</p>
+			</div>
+		</content>
+		<link rel="related" href="http://www.amongfriends.de/concert/" type="text/html"/>
+		<contributor>
+			<name>Dietmar Först</name>
+		</contributor>
+		<category term="concert"/>
+		<id>http://www.amongfriends.de/feed?itemid=26</id>
+		<published>2016-04-15T23:00:00+02:00</published>
+		<updated>2016-04-15T23:00:00+02:00</updated>
+	</entry>
 	
 	<entry>
 		<title>Concerts addendum</title>
