@@ -30,7 +30,24 @@
 	
 -->
 	
-	<updated>2016-04-15T23:00:00+02:00</updated>
+	<updated>2016-09-05T17:00:00+02:00</updated>
+	
+	<entry>
+		<title>New Concert in November 2016</title>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>Created new <a href="http://www.amongfriends.de/concert/2016-11-05/">page for charity concert 5 November 2016</a> with placard. Free admittance, donations requested.</p>
+			</div>
+		</content>
+		<link rel="related" href="http://www.amongfriends.de/concert/" type="text/html"/>
+		<contributor>
+			<name>Dietmar Först</name>
+		</contributor>
+		<category term="concert"/>
+		<id>http://www.amongfriends.de/feed?itemid=27</id>
+		<published>2016-09-05T17:00:00+02:00</published>
+		<updated>2016-09-05T17:00:00+02:00</updated>
+	</entry>
 	
 	<entry>
 		<title>Next performance end of April 2016</title>
