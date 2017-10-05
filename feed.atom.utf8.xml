@@ -30,7 +30,24 @@
 	
 -->
 	
-	<updated>2016-09-05T17:00:00+02:00</updated>
+	<updated>2017-10-05T18:30:00+02:00</updated>
+	
+	<entry>
+		<title>General Update 2017</title>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>General minor update to lists of concerts and members for 2017.</p>
+			</div>
+		</content>
+		<link rel="related" href="http://www.amongfriends.de/" type="text/html"/>
+		<contributor>
+			<name>Trude Johannessen</name>
+		</contributor>
+		<category term="concert"/>
+		<id>http://www.amongfriends.de/feed?itemid=28</id>
+		<published>2017-10-05T18:30:00+02:00</published>
+		<updated>2017-10-05T18:30:00+02:00</updated>
+	</entry>
 	
 	<entry>
 		<title>New Concert in November 2016</title>
