@@ -30,7 +30,25 @@
 	
 -->
 	
-	<updated>2017-10-05T18:30:00+02:00</updated>
+	<updated>2018-02-20T21:10:00+01:00</updated>
+	
+	<entry>
+		<title>Next concerts in March 2018</title>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>Added upcoming performances in March at Jesus-Christus-Kirche Meinerzhagen and Gesamtschule Marienheide to the web site’s <a href="http://www.amongfriends.de/concert/">concerts section</a>.</p>
+			</div>
+		</content>
+		<link rel="related" href="http://www.amongfriends.de/concert/" type="text/html"/>
+		<contributor>
+			<name>Leif Johannessen</name>
+			<name>Trude Johannessen</name>
+		</contributor>
+		<category term="concert"/>
+		<id>http://www.amongfriends.de/feed?itemid=29</id>
+		<published>2018-02-20T21:10:00+01:00</published>
+		<updated>2018-02-20T21:10:00+01:00</updated>
+	</entry>
 	
 	<entry>
 		<title>General Update 2017</title>
