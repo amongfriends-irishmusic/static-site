@@ -30,7 +30,24 @@
 	
 -->
 	
-	<updated>2018-02-20T21:10:00+01:00</updated>
+	<updated>2018-03-09T16:45:00+01:00</updated>
+	
+	<entry>
+		<title>More information on performance 17 March 2018</title>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>We've updated the web site with further details of our next performance.</p>
+			</div>
+		</content>
+		<link rel="related" href="http://www.amongfriends.de/concert/2018-03-17/" type="text/html"/>
+		<contributor>
+			<name>Dietmar Först</name>
+		</contributor>
+		<category term="concert"/>
+		<id>http://www.amongfriends.de/feed?itemid=30</id>
+		<published>2018-03-09T16:45:00+01:00</published>
+		<updated>2018-03-09T16:45:00+01:00</updated>
+	</entry>
 	
 	<entry>
 		<title>Next concerts in March 2018</title>
