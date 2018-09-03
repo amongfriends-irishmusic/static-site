@@ -30,7 +30,24 @@
 	
 -->
 	
-	<updated>2018-03-09T16:45:00+01:00</updated>
+	<updated>2018-09-03T17:20:00+02:00</updated>
+	
+	<entry>
+		<title>Special performance: Among Friends 25 years</title>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>Among Friends was founded 25 years ago! Added upcoming special performance on 6 October 2018 to the web site’s <a href="http://www.amongfriends.de/concert/">concerts section</a>.</p>
+			</div>
+		</content>
+		<link rel="related" href="http://www.amongfriends.de/concert/2018-10-06/" type="text/html"/>
+		<contributor>
+			<name>Dietmar Först</name>
+		</contributor>
+		<category term="concert"/>
+		<id>http://www.amongfriends.de/feed?itemid=31</id>
+		<published>2018-09-03T17:20:00+02:00</published>
+		<updated>2018-09-03T17:20:00+02:00</updated>
+	</entry>
 	
 	<entry>
 		<title>More information on performance 17 March 2018</title>
