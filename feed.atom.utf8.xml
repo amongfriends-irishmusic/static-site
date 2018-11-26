@@ -30,7 +30,24 @@
 	
 -->
 	
-	<updated>2018-09-03T17:20:00+02:00</updated>
+	<updated>2018-11-26T23:48:00+01:00</updated>
+	
+	<entry>
+		<title>Concerts update</title>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>Maintenance for the <a href="http://www.amongfriends.de/concert/">concerts section</a>: Move the “25 years” concert down to the past performances. Also, the landing page gets a new hi-res photograph.</p>
+			</div>
+		</content>
+		<link rel="related" href="http://www.amongfriends.de/" type="text/html"/>
+		<contributor>
+			<name>Arne Johannessen</name>
+		</contributor>
+		<category term="concert"/>
+		<id>http://www.amongfriends.de/feed?itemid=32</id>
+		<published>2018-11-26T23:48:00+01:00</published>
+		<updated>2018-11-26T23:48:00+01:00</updated>
+	</entry>
 	
 	<entry>
 		<title>Special performance: Among Friends 25 years</title>
@@ -587,4 +604,3 @@
 	</entry>
 	
 </feed>
-<!--$Id$-->
