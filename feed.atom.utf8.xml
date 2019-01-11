@@ -30,7 +30,24 @@
 	
 -->
 	
-	<updated>2018-11-26T23:48:00+01:00</updated>
+	<updated>2019-01-11T16:52:00+01:00</updated>
+	
+	<entry>
+		<title>New performances in February and March 2019</title>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>Added performances on 3 February, 24 February and 16 March 2019 to the web site’s <a href="http://www.amongfriends.de/concert/">concerts section</a>.</p>
+			</div>
+		</content>
+		<link rel="related" href="http://www.amongfriends.de/concert/" type="text/html"/>
+		<contributor>
+			<name>Dietmar Först</name>
+		</contributor>
+		<category term="concert"/>
+		<id>http://www.amongfriends.de/feed?itemid=33</id>
+		<published>2019-01-11T16:52:00+01:00</published>
+		<updated>2019-01-11T16:52:00+01:00</updated>
+	</entry>
 	
 	<entry>
 		<title>Concerts update</title>
