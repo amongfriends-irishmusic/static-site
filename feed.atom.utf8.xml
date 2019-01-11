@@ -30,7 +30,24 @@
 	
 -->
 	
-	<updated>2019-01-11T16:52:00+01:00</updated>
+	<updated>2019-01-11T19:17:00+01:00</updated>
+	
+	<entry>
+		<title>Correct time for performance in March 2019</title>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>The performance on 16 March 2019 in Olpe in fact begins already at 19:00 (instead of 19:30). Also, other minor corrections on the web site’s <a href="http://www.amongfriends.de/concert/">concerts section</a>.</p>
+			</div>
+		</content>
+		<link rel="related" href="http://www.amongfriends.de/concert/" type="text/html"/>
+		<contributor>
+			<name>Dietmar Först</name>
+		</contributor>
+		<category term="concert"/>
+		<id>http://www.amongfriends.de/feed?itemid=34</id>
+		<published>2019-01-11T19:17:00+01:00</published>
+		<updated>2019-01-11T19:17:00+01:00</updated>
+	</entry>
 	
 	<entry>
 		<title>New performances in February and March 2019</title>
@@ -42,11 +59,12 @@
 		<link rel="related" href="http://www.amongfriends.de/concert/" type="text/html"/>
 		<contributor>
 			<name>Dietmar Först</name>
+			<name>Arne Johannessen</name>
 		</contributor>
 		<category term="concert"/>
 		<id>http://www.amongfriends.de/feed?itemid=33</id>
 		<published>2019-01-11T16:52:00+01:00</published>
-		<updated>2019-01-11T16:52:00+01:00</updated>
+		<updated>2019-01-11T19:17:00+01:00</updated>
 	</entry>
 	
 	<entry>
