@@ -30,7 +30,25 @@
 	
 -->
 	
-	<updated>2019-01-11T19:17:00+01:00</updated>
+	<updated>2019-03-30T20:34:00+01:00</updated>
+	
+	<entry>
+		<title>New performance in April 2019</title>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>Added performance on 6 April 2019 to the web site’s <a href="http://www.amongfriends.de/concert/">concerts section</a>.</p>
+			</div>
+		</content>
+		<link rel="related" href="http://www.amongfriends.de/concert/" type="text/html"/>
+		<contributor>
+			<name>Dietmar Först</name>
+			<name>Arne Johannessen</name>
+		</contributor>
+		<category term="concert"/>
+		<id>http://www.amongfriends.de/feed?itemid=35</id>
+		<published>2019-03-30T20:34:00+01:00</published>
+		<updated>2019-03-30T20:34:00+01:00</updated>
+	</entry>
 	
 	<entry>
 		<title>Correct time for performance in March 2019</title>
