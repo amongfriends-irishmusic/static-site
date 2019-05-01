@@ -9,6 +9,12 @@
 #ErrorDocument 410 /.errorhandler.php
 
 
+# send German-language version if in doubt
+<IfModule mod_negotiation.c>
+	LanguagePriority de en
+	ForceLanguagePriority Prefer Fallback
+</IfModule>
+
 <IfModule mod_mime.c>
 	AddType audio/aac m4a
 	AddType application/atom+xml atom
