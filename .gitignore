@@ -2,10 +2,3 @@
 *.m4a
 *.mp3
 
-# Defer adding excessively large PDF binaries to the repository. These
-# files were originally meant for printing, not for the web; they will
-# likely never be needed again. The JPEG versions should be sufficient
-# for most purposes.
-/concert/2015-04-25/Mzhgn15knallgruen.pdf
-/concert/2016-04-30/Plakat-among-friends-1.pdf
-
