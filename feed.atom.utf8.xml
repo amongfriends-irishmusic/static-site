@@ -30,7 +30,27 @@
 	
 -->
 	
-	<updated>2019-03-30T20:34:00+01:00</updated>
+	<updated>2019-06-08T22:22:00+02:00</updated>
+	
+	<entry>
+		<title>Web site software change</title>
+		<content type="xhtml">
+			<div xmlns="http://www.w3.org/1999/xhtml">
+				<p>We will soon start using a new software tool on our web server to generate this news feed automatically from new concert announcements.</p>
+				<p>To date, this feed has been crafted manually to <em>describe</em> any changes to the web site. In future, new concert pages will be copied to this news feed <em>verbatim</em>. However, modifications to existing pages may not be reported in this news feed at all, unless somebody manually crafts a feed update, which I’m afraid is generally not very likely going forward.</p>
+				<p>Additionally, a side-effect of this change will be that English-language support on this site will cease. Please get in touch with us using the email address given found on the pages named “<a href="https://www.amongfriends.de/contact">Kontakt</a>” or “Impressum” if you need information in English. As a last resort, there is always the <a href="https://translate.google.com/translate?ie=UTF-8&amp;sl=de&amp;tl=en&amp;u=https://www.amongfriends.de">Google translation service</a>, which you can use to help you to parse our web site.</p>
+				<p>Should you feel strongly any of these changes, please be sure to let us know so we can reconsider our choices. Thanks for your help!</p>
+			</div>
+		</content>
+		<link rel="related" href="https://www.amongfriends.de/" type="text/html"/>
+		<contributor>
+			<name>Arne Johannessen</name>
+		</contributor>
+		<category term="general"/>
+		<id>http://www.amongfriends.de/feed?itemid=36</id>
+		<published>2019-06-08T22:22:00+02:00</published>
+		<updated>2019-06-08T22:22:00+02:00</updated>
+	</entry>
 	
 	<entry>
 		<title>New performance in April 2019</title>
