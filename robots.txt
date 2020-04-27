@@ -5,4 +5,4 @@
 # $Id$
 
 User-agent: *
-Disallow: 
+Disallow: /
